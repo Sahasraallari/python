@@ -23,3 +23,11 @@ print("data type of a is",type(t))
 
 g="sahasra"
 print("data type of a is",type(g))
+
+a="good"
+b="morning"
+print(a+b)
+
+c="ice"
+d="cream"
+print(c+d)
