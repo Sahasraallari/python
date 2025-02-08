@@ -14,3 +14,9 @@ while(num<=10):
     sum=sum+num
     num=num+1
 print("Sum of the first 10 Natural numbers:", sum)
+
+
+num=45
+for j in range(1,11):
+    c=num*l
+    print("45* %d = %d" %(l,c))
