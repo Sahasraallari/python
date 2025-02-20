@@ -13,5 +13,15 @@ class parrot:
     def display(self):
         print(self.name)
         print(self.age)       
-oge=parrot("Mikku",10)
+oge=parrot("Mikku",4)
+oge.display()
+
+class sudent:
+   def __init__(self,name,grade):
+        self.name=name
+        self.grade=grade
+   def display(self):
+        print(self.name)
+        print(self.grade)       
+oge=parrot("sahasra",5)
 oge.display()
